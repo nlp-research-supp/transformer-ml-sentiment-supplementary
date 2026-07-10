@@ -1,2 +1,4 @@
 # transformer-ml-sentiment-supplementary
-Repository contains supplementary experimental results for research study.
+This repository contains supplementary experimental results,
+performance analyses, and additional figures for a research study
+on multilingual sentiment classification.
